@@ -60,10 +60,16 @@ I took some courses in Coursera and Harvard edX
   - [Marble texture 1024x1024](https://drive.google.com/file/d/1RQ8A8UEYJdAcrdL8eZiE1VaTCMAazRqS/view?usp=share_link)
   - ![fakes000508](https://user-images.githubusercontent.com/72162982/202870380-ddb93cb5-a2c7-44aa-b662-b4a6ccbe9e1a.png)
 #### Used repository 
-- Stylegan2
+- Stylegan2, Pytorch
 
 ### 3. Analyize webpage
-
+- I have analyzed [3D Modeling webpage](https://kainrypus.booth.pm/items?page=1) via request.
+#### Key Problems: Analyize customer preference based on product market values
+#### Achievements
+- Found the market value of each product depends on image popularity matters from the second image and after. (Image anayisis)
+- Found the market value of each product has no relation with text description (NLP)
+#### Used repository 
+- Selenium, Tenserflow, googletrans
 
 # 📈 Work Experience
 
@@ -71,7 +77,8 @@ WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~
 _only described work experience using programming(Python)_
 - Made a backend system to collect company financial status and transform into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
-- Develop system to anayize presenters'(CEOs) emotion and presenters' and company tendency via Twitter/Instagram/Facebook using both NLP and image recognition.
+- Develop system to anayize presenters' emotion using [LeXmo](https://github.com/dinbav/LeXmo)
+- Analysize company tendency via Twitter/Instagram/Facebook using both NLP and image recognition.
 
 
 
@@ -142,14 +149,23 @@ Contact: loveutenderly@gmail.com
 #### 사용된 package 
 - Stylegan2
 
+### 3. 웹페이지 분석 (의뢰)
+- [3D 모델림 웹페이지](https://kainrypus.booth.pm/items?page=1)를 의뢰받아 분석.
+#### 해결과제: 제품별 시장가치에 따른 고객 성향 분석
+#### 성취
+- 제품별 시장가치가 배치된 2번째 이미지 이후부터 관계가 있음을 발견 (이미지 분석)
+- 제품별 시장가치가 제품 설명서와 관계가 없음을 증명 (자연어처리)
+#### 사용된 package 
+- Selenium, Tenserflow, googletrans
+
 # 업무 경험
 
 집현전 인베스트먼트 - 운영팀장 - 2022년 1월 ~  
 _업무 중 프로그래밍을 활용한 것만 작성_
 - [DART](https://dart.fss.or.kr/)시스템에서 검색된 회사 재무제표를 데이터셋으로 자동 변환할 수 있는 백엔드 개발 (미출시)
 - [Stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest)을 활용하여 회사 홈페이지 제작에 활용 (미출시)
-
-
+- [LeXmo](https://github.com/dinbav/LeXmo)를 활용하여 발표자들의 심리상태분석
+- 트위터/인스타그램/페이스북등의 텍스트(자연어처리) 및 이미지 분석을 통해, 회사의 성향분석
 
 <!---
 LoveYouTenderly/LoveYouTenderly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
