@@ -51,7 +51,7 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Selenium, Doc2Vec
 
-### 2. Creating Stylegan2 Repository 
+### 2. Creating Stylegan2 Dataset Repository 
 - I have made independent datasets for [Stylegan2](https://github.com/NVlabs/stylegan2) using two Nvidia 3060 Graphic Cards under Ubuntu OS for about two weeks each.
   - [Cat __1024x1024__] (upload soon)
   - ![fakes000260](https://user-images.githubusercontent.com/72162982/202870367-cb878188-98c8-438a-88be-6fb098ad1585.jpg)
@@ -62,12 +62,16 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Stylegan2
 
+### 3. Analyize webpage
+
+
 # 📈 Work Experience
 
 WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~ 
 _only described work experience using programming(Python)_
 - Made a backend system to collect company financial status and transform into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
+- Develop system to anayize presenters'(CEOs) emotion and presenters' and company tendency via Twitter/Instagram/Facebook using both NLP and image recognition.
 
 
 
