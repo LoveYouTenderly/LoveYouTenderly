@@ -120,9 +120,9 @@ Contact: loveutenderly@gmail.com
 #### 해결과제: 통일성 문제 - 8000여 줄 이상의 번역을 5명이 각자 번역작업을 하여 (용어/말투 등의) 번역 작업의 통일성이 일정하지 않음
 #### 해결방안
 - 검색 디렉터리 개선 및 보완.
-  - Doc2Vec을 활용하여 유사 문장을 검색해, 타인의 번역 및 유사한 문장을 참조할 수 있도록 만듦.
-  - 중복된 문장을 한 번만 번역하도록 함.
-  - 각 번역된 문장이 활용되는 파일 위치를 정리하여, 각 번역이 게임 내에 활용이 어디서 되는지 알 수 있게끔 함.
+  - Doc2Vec을 활용하여 유사 문장을 검색해, 타인의 번역 및 유사한 문장을 참조할 수 있는 시스템 개발.
+  - 중복된 문장을 한 번만 번역하도록 구축.
+  - 각 번역된 문장이 활용되는 파일 위치를 정리하여, 각 번역이 게임 내에 활용이 어디서 되는지 알 수 있게끔 구축.
 #### 사용된 package 
 - Selenium, Doc2Vec
 
@@ -142,7 +142,7 @@ Contact: loveutenderly@gmail.com
 
 집현전 인베스트먼트 - 운영팀장 - 2022년 1월 ~  
 _업무 중 프로그래밍을 활용한 것만 작성_
-- [DART](https://dart.fss.or.kr/)시스템에서 검색된 회사 재무제표를 데이터셋으로 자동 변환할 수 있는 프로그램을 만듦 (미출시)
+- [DART](https://dart.fss.or.kr/)시스템에서 검색된 회사 재무제표를 데이터셋으로 자동 변환할 수 있는 백엔드 개발 (미출시)
 - [Stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest)을 활용하여 회사 홈페이지 제작에 활용 (미출시)
 
 
