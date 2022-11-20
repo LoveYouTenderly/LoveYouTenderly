@@ -1,3 +1,5 @@
+Language: [Eng](https://github.com/LoveYouTenderly/LoveYouTenderly/edit/main/README.md#english), [Kor](https://github.com/LoveYouTenderly/LoveYouTenderly/edit/main/README.md#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 ## __English__
 Contact: loveutenderly@gmail.com
 
@@ -62,10 +64,14 @@ I took some courses in Coursera and Harvard edX
 
 # 📈 Work Experience
 
-WisdomHouse(kor-_집현전 _) COO Jan 1st 2022 ~ 
+WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~ 
 _only described work experience using programming(Python)_
 - Made a backend system to collect company financial status and transform into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
+
+
+
+
 
 
 ## __한국어__
@@ -76,7 +82,7 @@ Contact: loveutenderly@gmail.com
 # 자기소개
 취미로 프로그래밍하며, 스스로 성장해온 아마추어 개발자입니다.
 
-# 🐱‍🏍 Skills
+# Skills
 
 ### Back-end
   - Python | Pytorch, TensorFlow, Keras, Selenium, Doc2Vec, BERT, stylegan2, Stable Diffusion
