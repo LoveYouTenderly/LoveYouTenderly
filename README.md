@@ -150,7 +150,7 @@ Contact: loveutenderly@gmail.com
 - Stylegan2
 
 ### 3. 웹페이지 분석 (의뢰)
-- [3D 모델림 웹페이지](https://kainrypus.booth.pm/items?page=1)를 의뢰받아 분석.
+- [3D 모델링 웹페이지](https://kainrypus.booth.pm/items?page=1)를 의뢰받아 분석.
 #### 해결과제: 제품별 시장가치에 따른 고객 성향 분석
 #### 성취
 - 제품별 시장가치가 배치된 2번째 이미지 이후부터 관계가 있음을 발견 (이미지 분석)
