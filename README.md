@@ -41,7 +41,7 @@ I took some courses in Coursera and Harvard edX
 
 # 🚀 Personal Experience & Projects
 ### 1. OWISquadTranslation Project
-- I have participated in working on a transition project of a game called [Squad](https://store.steampowered.com/app/393380/Squad/).
+- I have participated in working on a translation project of a game called [Squad](https://store.steampowered.com/app/393380/Squad/).
 #### Key Problems: Unity issue - 8000 lines of massive translation were done by individuals where unity throughout translation would be at risk.
 #### Achievements
 - Made an improvement to the search directory.
