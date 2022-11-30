@@ -60,7 +60,7 @@ I took some courses in Coursera and Harvard edX
   - [Marble texture 1024x1024](https://drive.google.com/file/d/1RQ8A8UEYJdAcrdL8eZiE1VaTCMAazRqS/view?usp=share_link)
   - ![fakes000508](https://user-images.githubusercontent.com/72162982/202870380-ddb93cb5-a2c7-44aa-b662-b4a6ccbe9e1a.png)
   - [Flower 1024x1024]()
-  - ![fakes000000 (1)](https://user-images.githubusercontent.com/72162982/204685765-e8fe31a9-df7c-4d38-a7eb-0d68aa636245.jpg)
+  - ![fakes000000 (1)](https://user-images.githubusercontent.com/72162982/204686171-94b82b41-401a-4a89-87ec-0fd79431eb57.png)
 #### Used repository 
 - Stylegan2, Pytorch
 
@@ -149,7 +149,8 @@ Contact: loveutenderly@gmail.com
   - [Marble texture 1024x1024](https://drive.google.com/file/d/1RQ8A8UEYJdAcrdL8eZiE1VaTCMAazRqS/view?usp=share_link)
   - ![fakes000508](https://user-images.githubusercontent.com/72162982/202870380-ddb93cb5-a2c7-44aa-b662-b4a6ccbe9e1a.png)
   - [Flower 1024x1024]()
-  - ![fakes000000 (1)](https://user-images.githubusercontent.com/72162982/204685765-e8fe31a9-df7c-4d38-a7eb-0d68aa636245.jpg)
+  - ![fakes000000 (1)](https://user-images.githubusercontent.com/72162982/204686171-94b82b41-401a-4a89-87ec-0fd79431eb57.png)
+
 #### 사용된 package 
 - Stylegan2
 
