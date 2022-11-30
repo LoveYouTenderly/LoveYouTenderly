@@ -53,12 +53,14 @@ I took some courses in Coursera and Harvard edX
 
 ### 2. Creating Stylegan2 Dataset Repository 
 - I have made independent datasets for [Stylegan2](https://github.com/NVlabs/stylegan2) using two Nvidia 3060 Graphic Cards under Ubuntu OS for about two weeks each.
-  - [Cat __1024x1024__] (upload soon)
+  - [Cat __1024x1024__](https://drive.google.com/file/d/1gKYFu0grhUC7O-8V6q2WOXTcTvQzy-MC/view?usp=share_link)
   - ![fakes000260](https://user-images.githubusercontent.com/72162982/202870367-cb878188-98c8-438a-88be-6fb098ad1585.jpg)
   - [Wood texture 1024x1024](https://drive.google.com/file/d/140newRNqvadE_K2i4lR2vJvc3TtTYJIU/view?usp=share_link)
   - ![fakes000464](https://user-images.githubusercontent.com/72162982/202870377-cac6018c-3432-46d4-8e1a-020f81f77784.png)
   - [Marble texture 1024x1024](https://drive.google.com/file/d/1RQ8A8UEYJdAcrdL8eZiE1VaTCMAazRqS/view?usp=share_link)
   - ![fakes000508](https://user-images.githubusercontent.com/72162982/202870380-ddb93cb5-a2c7-44aa-b662-b4a6ccbe9e1a.png)
+  - [Flower 1024x1024]()
+  - 
 #### Used repository 
 - Stylegan2, Pytorch
 
@@ -140,7 +142,7 @@ Contact: loveutenderly@gmail.com
 ### 2. Stylegan2 데이터셋 구축 
 - [Stylegan2](https://github.com/NVlabs/stylegan2)를 활용뿐만이 아니라 독립된 데이터셋을 각 셋당 약 2주간의 머신러닝을 통해 학습시킴.
   개인 컴퓨터에서 Ubuntu OS에서 NVIDIA 3060 두 개를 활용. 한 달에 100만원 이상의 전기세가 나온 적이 있음.
-  - [Cat __1024x1024__] (업로드 예정)
+  - [Cat __1024x1024__](https://drive.google.com/file/d/1gKYFu0grhUC7O-8V6q2WOXTcTvQzy-MC/view?usp=share_link)
   - ![fakes000260](https://user-images.githubusercontent.com/72162982/202870367-cb878188-98c8-438a-88be-6fb098ad1585.jpg)
   - [Wood texture 1024x1024](https://drive.google.com/file/d/140newRNqvadE_K2i4lR2vJvc3TtTYJIU/view?usp=share_link)
   - ![fakes000464](https://user-images.githubusercontent.com/72162982/202870377-cac6018c-3432-46d4-8e1a-020f81f77784.png)
