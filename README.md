@@ -75,8 +75,8 @@ I took some courses in Coursera and Harvard edX
 
 # 📈 Work Experience
 
-Aerix Developer Feb 1st 2023 ~
-- Doing data analysis of TMS data as part of Clean Factory Project
+Aerix Data Anaysist Developer Feb 1st 2023 ~ 
+- Doing data analysis of TMS data as part of [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
   Identified Outliers
   Found worker's tendency to check on Monday and disregard the rest.
   Found SOx is more carefully audited compared to NOx
@@ -172,13 +172,13 @@ Contact: loveutenderly@gmail.com
 - Selenium, Tenserflow, googletrans
 
 # 업무 경험
-에어릭스 - 개발자 - 2023 2월 ~
-- 클린팩토리 프로젝트의 일환으로 TMS 데이터 분석 수행
+에어릭스 - 데이터분석 담당 개발자 - 2023 2월 ~
+- [클린팩토리 프로젝트](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)의 일환으로 TMS 데이터 분석 수행
   이상값 분석 진행
   월요일에만 점검하고 나머지는 무시하는 작업자의 경향을 발견
   질소산화물(NOx)에 비해 황산화물(SOx)을 더 주의 깊게 감사하는 경향 발견
   먼지, 황산화물, 질소산화물 간의 전반적인 상관관계 발견. (먼지 ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ 먼지] = [SOx ∉ 먼지]
-  LSTM과 Prophet을 사용하여 예측 모델 제작
+  LSTM과 [Prophet](https://facebook.github.io/prophet/)을 사용하여 예측 모델 제작
 - Grafana 시각화, influxdb와 NUC를 활용
 - IoT MQTT 디바이스 데이터로부터 사내 최초로 FFT 분석 구축 및 실행에 성공
 
