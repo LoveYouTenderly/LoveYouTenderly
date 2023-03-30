@@ -81,7 +81,8 @@ I took some courses in Coursera and Harvard edX
   Found worker's tendency to check on Monday and disregard the rest.
   Found SOx is more carefully audited compared to NOx
   Found overall correlation between dust, SOx, and NOx. [(Dust ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ Dust] as [SOx ∉ Dust]
-  Made prediction model using LSTM and [Prophet](https://facebook.github.io/prophet/)
+  Made forecast model using LSTM and [Prophet](https://facebook.github.io/prophet/)
+  Identified the reason of the hardship of making NOx forecast model
 - Grafana visualization using influxdb and python via NUC 
 - Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
@@ -177,8 +178,9 @@ Contact: loveutenderly@gmail.com
   이상값 분석 진행
   월요일에만 점검하고 나머지는 무시하는 작업자의 경향을 발견
   질소산화물(NOx)에 비해 황산화물(SOx)을 더 주의 깊게 감사하는 경향 발견
-  먼지, 황산화물, 질소산화물 간의 전반적인 상관관계 발견. (먼지 ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ 먼지] = [SOx ∉ 먼지]
+  먼지, 황산화물(SOx, 질소산화물(NOx) 간의 전반적인 상관관계 발견. (먼지 ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ 먼지] = [SOx ∉ 먼지]
   LSTM과 [Prophet](https://facebook.github.io/prophet/)을 사용하여 예측 모델 제작
+  질소산화물(NOx) 예측 모델 제작이 어려운 이유 파악
 - Grafana 시각화, influxdb와 NUC를 활용
 - IoT MQTT 디바이스 데이터로부터 사내 최초로 FFT 분석 구축 및 실행에 성공
 
