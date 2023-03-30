@@ -81,7 +81,7 @@ Aerix Developer Feb 1st 2023 ~
   Found worker's tendency to check on Monday and disregard the rest.
   Found SOx is more carefully audited compared to NOx
   Found overall correlation between dust, SOx, and NOx. [(Dust ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ Dust] as [SOx ∉ Dust]
-  Made prediction model using LSTM and Prophet
+  Made prediction model using LSTM and [Prophet](https://facebook.github.io/prophet/)
 - Grafana visualization using influxdb and python via NUC 
 - Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
