@@ -76,8 +76,14 @@ I took some courses in Coursera and Harvard edX
 # 📈 Work Experience
 
 Aerix Developer Feb 1st 2023 ~
-- Doing data analysis TMS data
+- Doing data analysis of TMS data as part of Clean Factory Project
+  Identified Outliers
+  Found worker's tendency to check on Monday and disregard the rest.
+  Found SOx is more carefully audited compared to NOx
+  Found overall correlation between dust, SOx, and NOx. [(Dust ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ Dust] as [SOx ∉ Dust]
+  Made prediction model using LSTM and Prophet
 - Grafana visualization using influxdb and python via NUC 
+- Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
 WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~ Oct 11th 2022 (_company closed business_)
 _only described work experience using programming(Python)_
@@ -85,8 +91,6 @@ _only described work experience using programming(Python)_
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
 - Develop system to anayize presenters' emotion using [LeXmo](https://github.com/dinbav/LeXmo)
 - Analysize company tendency via Twitter/Instagram/Facebook/NaverNews using both NLP and image recognition.
-
-
 
 
 
@@ -169,8 +173,14 @@ Contact: loveutenderly@gmail.com
 
 # 업무 경험
 에어릭스 - 개발자 - 2023 2월 ~
-- 공장 데이터분석
+- 클린팩토리 프로젝트의 일환으로 TMS 데이터 분석 수행
+  이상값 분석 진행
+  월요일에만 점검하고 나머지는 무시하는 작업자의 경향을 발견
+  질소산화물(NOx)에 비해 황산화물(SOx)을 더 주의 깊게 감사하는 경향 발견
+  먼지, 황산화물, 질소산화물 간의 전반적인 상관관계 발견. (먼지 ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ 먼지] = [SOx ∉ 먼지]
+  LSTM과 Prophet을 사용하여 예측 모델 제작
 - Grafana 시각화, influxdb와 NUC를 활용
+- IoT MQTT 디바이스 데이터로부터 사내 최초로 FFT 분석 구축 및 실행에 성공
 
 집현전 인베스트먼트 - 운영팀장 - 2022년 1월 ~  2022 10월 (회사 폐업)
 _업무 중 프로그래밍을 활용한 것만 작성_
