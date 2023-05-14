@@ -75,7 +75,7 @@ I took some courses in Coursera and Harvard edX
 
 # 📈 Work Experience
 
-#### Aerix Data Anaysist Developer Feb 1st 2023 ~ 
+#### Aerix Data Analysts Developer Feb 1st 2023 ~ 
 - Doing data analysis of TMS data as part of [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
   Identified Outliers
   Found worker's tendency to check on Monday and disregard the rest.
