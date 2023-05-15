@@ -75,7 +75,7 @@ I took some courses in Coursera and Harvard edX
 
 # 📈 Work Experience
 
-#### Aerix Data Analysts Developer Feb 1st 2023 ~ 
+#### Aerix Data Analysts Developer Feb 1st 2023 ~ April 30th 2023 (Company account used https://github.com/AerixTenderly)
 - Doing data analysis of TMS data as part of [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
   Identified Outliers
   Found worker's tendency to check on Monday and disregard the rest.
@@ -173,7 +173,7 @@ Contact: loveutenderly@gmail.com
 - Selenium, Tenserflow, googletrans
 
 # 업무 경험
-#### 에어릭스 - 데이터분석 담당 개발자 - 2023 2월 ~
+#### 에어릭스 - 데이터분석 담당 개발자 - 2023 2월 ~ 2023 4월 (해당 기간동안 사용된 계정 https://github.com/AerixTenderly)
 - [클린팩토리 프로젝트](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)의 일환으로 TMS 데이터 분석 수행
   이상값 분석 진행
   월요일에만 점검하고 나머지는 무시하는 작업자의 경향을 발견
