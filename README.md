@@ -26,7 +26,7 @@ I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp pr
 
 # 🏤 Education
 ### University
-  - Ulsan National Institute of Science and Technology - Technology Management/Information System/Entrepreneurship,, Marketing
+  - Ulsan National Institute of Science and Technology - Technology Management/Information System/Entrepreneurship, Marketing
 
 I took some courses in Coursera and Harvard edX
 
@@ -41,7 +41,7 @@ I took some courses in Coursera and Harvard edX
 
 # 🚀 Personal Experience & Projects
 ### 1. OWISquadTranslation Project
-- I have participated in working on a translation project of a game called [Squad](https://store.steampowered.com/app/393380/Squad/).
+- I have participated in working on a translation project for a game called [Squad](https://store.steampowered.com/app/393380/Squad/).
 #### Key Problems: Unity issue - 8000 lines of massive translation were done by individuals where unity throughout translation would be at risk.
 #### Achievements
 - Made an improvement to the search directory.
@@ -66,9 +66,9 @@ I took some courses in Coursera and Harvard edX
 
 ### 3. Analyize webpage
 - I have analyzed [3D Modeling webpage](https://kainrypus.booth.pm/items?page=1) via request.
-#### Key Problems: Analyize customer preference based on product market values
+#### Key Problems: Analyze customer preference based on product market values
 #### Achievements
-- Found the market value of each product depends on image popularity matters from the second image and after. (Image anayisis)
+- Found the market value of each product depends on image popularity matters from the second image and after. (Image anaysis)
 - Found the market value of each product has no relation with text description (NLP)
 #### Used repository 
 - Selenium, Tenserflow, googletrans
@@ -76,22 +76,22 @@ I took some courses in Coursera and Harvard edX
 # 📈 Work Experience
 
 #### Aerix Data Analysts Developer Feb 1st 2023 ~ April 30th 2023 (Company account used https://github.com/AerixTenderly)
-- Doing data analysis of TMS data as part of [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
+- Doing data analysis of TMS data as part of the [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
   Identified Outliers
   Found worker's tendency to check on Monday and disregard the rest.
   Found SOx is more carefully audited compared to NOx
   Found overall correlation between dust, SOx, and NOx. [(Dust ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ Dust] as [SOx ∉ Dust]
   Made forecast model using LSTM and [Prophet](https://facebook.github.io/prophet/)
   Identified the reason of the hardship of making NOx forecast model
-- Grafana visualization using influxdb and python via NUC 
+- Grafana visualization using InfluxDB and Python via NUC 
 - Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
 #### WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~ Oct 11th 2022 (_company closed business_)
 _only described work experience using programming(Python)_
-- Made a backend system to collect company financial status and transform into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
+- Made a backend system to collect company financial status and transform it into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
-- Develop system to anayize presenters' emotion using [LeXmo](https://github.com/dinbav/LeXmo)
-- Analysize company tendency via Twitter/Instagram/Facebook/NaverNews using both NLP and image recognition.
+- Develop a system to analyze presenters' emotions using [LeXmo](https://github.com/dinbav/LeXmo)
+- Analysize company tendencies via Twitter/Instagram/Facebook/NaverNews using both NLP and image recognition.
 
 
 
