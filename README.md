@@ -26,8 +26,10 @@ I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp pr
 
 # 🏤 Education
 ### University
-  - Ulsan National Institute of Science and Technology - Technology Management/Information System/Entrepreneurship, Marketing
-
+  - Bachelor: Ulsan National Institute of Science and Technology (No. 174 in the world, No. 6 among Korean universities) - Technology Management/Information System/Entrepreneurship, Marketing
+  - Masters: Ulsan National Institute of Science and Technology - Management of technology
+  - Graduating Thesis - [Application of Long-short Term Memory (LSTM) Model for Forecasting NOx Emission in Pohang Area](https://drive.google.com/file/d/1tEm8tMAlw372iQ1S5NwwcdtkCuhNYNip/view?usp=sharing)
+  - 
 I took some courses in Coursera and Harvard edX
 
 ### Coursera
