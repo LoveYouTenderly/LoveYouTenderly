@@ -72,7 +72,7 @@ I took some courses in Coursera and Harvard edX
 #### Achievements
 - Found the market value of each product depends on image popularity matters from the second image and after. (Image anaysis)
 - Found the market value of each product has no relation with text description (NLP)
-- Sales increased by 220% within 6 months
+- Monthly sales increased by 220% within 6 months since the analysis
 #### Used repository 
 - Selenium, Tenserflow, googletrans
 
@@ -174,7 +174,7 @@ Contact: loveutenderly@gmail.com
 #### 성취
 - 제품별 시장가치가 배치된 2번째 이미지 이후부터 관계가 있음을 발견 (이미지 분석)
 - 제품별 시장가치가 제품 설명서와 관계가 없음을 증명 (자연어처리)
-- 매출 6개월만에 202% 상승
+- 분석후 월 매출 6개월만에 220% 상승
 #### 사용된 package 
 - Selenium, Tenserflow, googletrans
 
