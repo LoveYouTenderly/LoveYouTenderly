@@ -33,6 +33,7 @@ I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp pr
 I took some courses in Coursera and Harvard edX
 
 ### Coursera
+  - [Google Data Analytics Certificate](https://www.credly.com/badges/253783f7-f43a-4d4d-be18-97656f9cde1e)
   - [Data Analysis Using Python](https://coursera.org/share/ada3399a722a4d58ada1c30096c078ce)
   - [Inheritance and Data Structures in Java](https://coursera.org/share/bb3b62746751fbf6023fe3b4fb6ee72f)
   - [Introduction to Java and Object-Oriented Programming](https://coursera.org/share/532d22be61f63df885cefb6d0ffad6f0)
@@ -133,6 +134,7 @@ Contact: loveutenderly@gmail.com
 
 온라인 과정
 ### Coursera
+  - [Google Data Analytics Certificate](https://www.credly.com/badges/253783f7-f43a-4d4d-be18-97656f9cde1e)
   - [Data Analysis Using Python](https://coursera.org/share/ada3399a722a4d58ada1c30096c078ce)
   - [Inheritance and Data Structures in Java](https://coursera.org/share/bb3b62746751fbf6023fe3b4fb6ee72f)
   - [Introduction to Java and Object-Oriented Programming](https://coursera.org/share/532d22be61f63df885cefb6d0ffad6f0)
