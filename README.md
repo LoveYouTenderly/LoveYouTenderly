@@ -3,8 +3,10 @@
 ## __English__
 Contact: loveutenderly@gmail.com
 
+# "The smartest person that I ever worked with!" -Cheif of the developer of Aerix, 20+ years of experience-
+
 # 😎 Introduction
-I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp programming experience. Yet, I manage to solve problems using programming both as a hobby and work.
+I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp programming experience. Yet, I managed to solve problems using programming both as a hobby and work.
 
 # 🐱‍🏍 Skills
 
@@ -67,7 +69,7 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Stylegan2, Pytorch
 
-### 3. Analyize webpage
+### 3. Analyze webpage
 - I have analyzed [3D Modeling webpage](https://kainrypus.booth.pm/items?page=1) via request.
 #### Key Problems: Analyze customer preference based on product market values
 #### Achievements
@@ -82,11 +84,11 @@ I took some courses in Coursera and Harvard edX
 #### Aerix Data Analysts Developer Feb 1st 2023 ~ April 30th 2023 (Company account used https://github.com/AerixTenderly)
 - Doing data analysis of TMS data as part of the [Clean Factory Governmental Project](https://www.korea.kr/news/pressReleaseView.do?newsId=156435736)
   Identified Outliers
-  Found worker's tendency to check on Monday and disregard the rest.
+  Found the worker's tendency to check on Monday and disregard the rest.
   Found SOx is more carefully audited compared to NOx
   Found overall correlation between dust, SOx, and NOx. [(Dust ⊃ NOx) & (NOx ∩ SOx)] // [(NOx ∩ SOx) ∉ Dust] as [SOx ∉ Dust]
   Made forecast model using LSTM and [Prophet](https://facebook.github.io/prophet/)
-  Identified the reason of the hardship of making NOx forecast model
+  Identified the reason for the hardship of making the NOx forecast model
 - Grafana visualization using InfluxDB and Python via NUC 
 - Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
