@@ -5,6 +5,9 @@ Contact: loveutenderly@gmail.com
 
 <h2> *The smartest person that I ever worked with!* <br /><small>-Chief of the developer of Aerix, 20+ years of experience-</small>
 
+<big><em>The smartest person that I ever worked with!</em></big>
+<small>-Chief of the developer of Aerix, 20+ years of experience-</small>
+
 # 😎 Introduction
 I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp programming experience. Yet, I managed to solve problems using programming both as a hobby and work.
 
