@@ -3,9 +3,7 @@
 ## __English__
 Contact: loveutenderly@gmail.com
 
-<h2> *The smartest person that I ever worked with!* <br /><small>-Chief of the developer of Aerix, 20+ years of experience-</small>
-
-<big><em>The smartest person that I ever worked with!</em></big>
+<big><em>The smartest person that I ever worked with!</em></big><br />
 <small>-Chief of the developer of Aerix, 20+ years of experience-</small>
 
 # 😎 Introduction
