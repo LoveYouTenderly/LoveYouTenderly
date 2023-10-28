@@ -90,7 +90,7 @@ I took some courses in Coursera and Harvard edX
 - Grafana visualization using InfluxDB and Python via NUC 
 - Successfully built and executed FFT analysis for the first time in the company from IoT MQTT device data.
 
-#### WisdomHouse(kor-_집현전_ ) COO Jan 1st 2022 ~ Oct 11th 2022 (_company closed business_)
+#### WisdomHouse(kor-_집현전_ ) COO & Programmer Jan 1st 2022 ~ Oct 11th 2022 (_company closed business_)
 _only described work experience using programming(Python)_
 - Made a backend system to collect company financial status and transform it into the form of dataframe from [DART](https://dart.fss.or.kr/) (not released)
 - Used [stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest) while creating company webpage (not released)
@@ -192,7 +192,7 @@ Contact: loveutenderly@gmail.com
 - Grafana 시각화, influxdb와 NUC를 활용
 - IoT MQTT 디바이스 데이터로부터 사내 최초로 FFT 분석 구축 및 실행에 성공
 
-#### 집현전 인베스트먼트 - 운영팀장 - 2022년 1월 ~  2022 10월 (회사 폐업)
+#### 집현전 인베스트먼트 - 운영팀장/개발자 - 2022년 1월 ~  2022 10월 (회사 폐업)
 _업무 중 프로그래밍을 활용한 것만 작성_
 - [DART](https://dart.fss.or.kr/)시스템에서 검색된 회사 재무제표를 데이터셋으로 자동 변환할 수 있는 백엔드 개발 (미출시)
 - [Stable diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4?text=A+high+tech+solarpunk+utopia+in+the+Amazon+rainforest)을 활용하여 회사 홈페이지 제작에 활용 (미출시)
