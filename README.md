@@ -88,7 +88,7 @@ I took some courses in Coursera and Harvard edX
   Made forecast model using LSTM and [Prophet](https://facebook.github.io/prophet/)
   Identified the reason for the hardship of making the NOx forecast model
 - Grafana visualization using InfluxDB and Python via NUC 
-- Successfully built and executed FT analysis for the first time in the company via IoT MQTT device data. The company struggled to solve this issue for years.
+- Successfully built and executed anomaly detection analysis for the first time in the company via Fourier Transform and IoT MQTT device data. The company struggled to solve this issue for years.
 
 #### WisdomHouse(kor-_집현전_ ) COO & Programmer Jan 1st 2022 ~ Oct 11th 2022 (_company closed business_)
 _only described work experience using programming(Python)_
