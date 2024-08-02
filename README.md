@@ -77,7 +77,7 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Selenium, Tenserflow, googletrans
 
-### 4. [Project ongoing] Tracking FPS for ESP
+### 4. [Project ongoing] Tracking for Analysis of ESP Hacking
 [![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
 #### Used repository 
 - YOLO, cv2
@@ -184,6 +184,11 @@ Contact: loveutenderly@gmail.com
 - 분석후 월 매출 6개월만에 220% 상승
 #### 사용된 package 
 - Selenium, Tenserflow, googletrans
+
+### 4. [미완 프로텍트] ESP 해킹 분석을 위한 트래킹
+[![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
+#### 사용된 package 
+- YOLO, cv2
 
 # 업무 경험
 #### 에어릭스 - 데이터분석 담당 개발자 - 2023 2월 ~ 2023 4월 (해당 기간동안 사용된 계정 https://github.com/AerixTenderly)
