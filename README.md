@@ -78,7 +78,7 @@ I took some courses in Coursera and Harvard edX
 - Selenium, Tenserflow, googletrans
 
 ### 4. [Project ongoing] Tracking FPS for ESP
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/Dv0_ciMkJsY)
+[![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
 #### Used repository 
 - YOLO, cv2
 
