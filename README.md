@@ -4,7 +4,7 @@
 Contact: loveutenderly@gmail.com
 
 # 😎 Introduction
-I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp programming experience. Yet, I managed to solve problems using programming both as a hobby and work.
+I am a self-taught programming enthusiast. I have no CS degree nor a Bootcamp programming experience. Yet, I managed to solve problems using programming both as a hobby and as work.
 
 # 🐱‍🏍 Skills
 
@@ -71,7 +71,7 @@ I took some courses in Coursera and Harvard edX
 - I have analyzed [3D Modeling webpage](https://kainrypus.booth.pm/items?page=1) via request.
 #### Key Problems: Analyze customer preference based on product market values
 #### Achievements
-- Found the market value of each product depends on image popularity matters from the second image and after. (Image anaysis)
+- Found the market value of each product depends on image popularity matters from the second image and after. (Image analysis)
 - Found the market value of each product has no relation with text description (NLP)
 - Monthly sales increased by 220% within 6 months since the analysis
 #### Used repository 
@@ -79,8 +79,10 @@ I took some courses in Coursera and Harvard edX
 
 ### 4. [Project ongoing] Tracking for Aim Analysis for performance enhancement in FPS or ESP Hacking
 [![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
+#### Project purpose.
+The purpose of this project is to track a player's performance on a quantifiable scale, especially in accuracy and awareness(time of enemy player on-screen - time of the player aiming). Another reason is to track anomalies in performance. For example, extremely high accuracy may indicate the usage of aim bots.
 #### Used repository 
-- YOLO, cv2
+- YOLOv8, cv2
 
 # 📈 Work Experience
 
@@ -187,6 +189,8 @@ Contact: loveutenderly@gmail.com
 
 ### 4. [미완 프로텍트] FPS 또는 ESP 해킹의 성능 향상을 위한 조준 분석 추적
 [![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
+#### 프로젝트 목적.
+이 프로젝트의 목적은 플레이어의 퍼포먼스, 특히 정확도와 인지도(적 플레이어가 화면에 나타난 시간 - 조준한 시간)를 정량화할 수 있도록 추적하는 것입니다. 또 다른 이유는 이상감지 추적하기 위해서입니다. 예를 들어, 비정상적인 정확도 조준 봇과 같은 해킹 사용을 의심 할 수 있습니다.
 #### 사용된 package 
 - YOLO, cv2
 
