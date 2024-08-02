@@ -77,7 +77,7 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Selenium, Tenserflow, googletrans
 
-### 4. [Project ongoing] Tracking for Analysis of ESP Hacking
+### 4. [Project ongoing] Tracking for Aim Analysis for performance enhancement in FPS or ESP Hacking
 [![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
 #### Used repository 
 - YOLO, cv2
@@ -185,7 +185,7 @@ Contact: loveutenderly@gmail.com
 #### 사용된 package 
 - Selenium, Tenserflow, googletrans
 
-### 4. [미완 프로텍트] ESP 해킹 분석을 위한 트래킹
+### 4. [미완 프로텍트] FPS 또는 ESP 해킹의 성능 향상을 위한 조준 분석 추적
 [![Watch the video](https://img.youtube.com/vi/Dv0_ciMkJsY/maxresdefault.jpg)](https://youtu.be/Dv0_ciMkJsY)
 #### 사용된 package 
 - YOLO, cv2
