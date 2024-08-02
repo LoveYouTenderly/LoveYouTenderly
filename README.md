@@ -77,6 +77,11 @@ I took some courses in Coursera and Harvard edX
 #### Used repository 
 - Selenium, Tenserflow, googletrans
 
+### 4. [Project ongoing] Tracking FPS for ESP
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/Dv0_ciMkJsY)
+#### Used repository 
+- YOLO, cv2
+
 # 📈 Work Experience
 
 #### Aerix Data Analysts Developer Feb 1st 2023 ~ April 30th 2023 (Company account used https://github.com/AerixTenderly)
