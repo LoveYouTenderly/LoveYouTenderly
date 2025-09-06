@@ -44,15 +44,15 @@ I took some courses in Coursera and Harvard edX
 
 ### Research Papers Publications
 
-1. Lee, S. (2025). Modeling Firm-Level ESG–Sentiment Interactions in Stock Returns. Under review at Corporate Social Responsibility and Environmental Management (Impact Factor: 9.1). Preprint available at arXiv:2507.11485
-● Built an ESG-finance model with emotion-enriched Retrofitted Word Embeddings.
-● Showed that emotions like trust and anticipation drive stock return variability.
-● Outperformed traditional sentiment lexicons such as NRC Emotion Lexicon in firm-level ESG modeling.
+1. Lee, S. (2025). Modeling Firm-Level ESG–Sentiment Interactions in Stock Returns. Under review at Corporate Social Responsibility and Environmental Management **(Impact Factor: 9.1)**. Preprint available at arXiv:2507.11485
+  - ● Built an ESG-finance model with emotion-enriched Retrofitted Word Embeddings.
+  - ● Showed that emotions like trust and anticipation drive stock return variability.
+  - ● Outperformed traditional sentiment lexicons such as NRC Emotion Lexicon in firm-level ESG modeling.
 
 2. Lee, S., Kim, M. (2023). Application of Long-short Term Memory (LSTM) Model for Forecasting NOx Emission in Pohang. arXiv preprint arXiv:2311.15632 (1 citation, Google Scholar, as of Aug 2025)
-● Built an LSTM-based model to forecast NOx emissions in an industrial Korean city (Pohang).
-● Integrated stochastic regression for data imputation and used Adam optimizer for tuning.
-● Achieved a MASE < 1, proving superior performance to naïve prediction methods.
+  - ● Built an LSTM-based model to forecast NOx emissions in an industrial Korean city (Pohang).
+  - ● Integrated stochastic regression for data imputation and used Adam optimizer for tuning.
+  - ● Achieved a MASE < 1, proving superior performance to naïve prediction methods.
 
 # 🚀 Personal Experience & Projects
 ### 1. OWISquadTranslation Project
